@@ -40,4 +40,4 @@ streamlit run main.py
 - .env: Configuration file for storing your OpenAI API key.
 
 
-![](Example..png)
+![](Example.jpg)
